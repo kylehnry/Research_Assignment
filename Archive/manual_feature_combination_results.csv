@@ -1,0 +1,2 @@
+Features,Accuracy,Precision,Recall,ROC_AUC
+"['SMA5_At_Entry', 'SMA7_At_Entry', 'EMA5_At_Entry', 'EMA7_At_Entry', 'RSI5_At_Entry', 'RSI10_At_Entry', 'ATR5_At_Entry', 'ATR15_At_Entry', 'Stoch5_K_At_Entry', 'Stoch7_K_At_Entry', 'BB5_High_At_Entry', 'BB5_Low_At_Entry', 'BB5_MAvg_At_Entry', 'BB15_High_At_Entry', 'BB15_Low_At_Entry', 'BB15_MAvg_At_Entry', 'Open', 'High', 'Low', 'Last', 'MACD_At_Entry', 'Day_Of_Week_At_Entry', 'ROC14_At_Entry']",0.5323974082073434,0.5441860465116279,0.4968152866242038,0.5330230279274865
